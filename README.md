@@ -1,6 +1,4 @@
-# pokemon_project
-
-PokéBattle Predictor — “Which Pokémon would win?”
+# PokéBattle Predictor — “Which Pokémon would win?”
 
 An AI-powered analysis tool that predicts the winner between two Pokémon using their base stats and a machine-learning model. Includes a simple command-line interface (CLI) and optional visuals for your report.
 
