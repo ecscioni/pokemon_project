@@ -167,7 +167,4 @@ pip install -r requirements.txt
 - Figures missing → run `python analysis.py`
 - Name not found → use exact spelling from `pokemon.csv` **or** pass the Pokédex id
 
----
 
-## License
-Choose one for your coursework (MIT is common for student projects).
